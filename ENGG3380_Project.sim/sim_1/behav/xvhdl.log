@@ -1,0 +1,30 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/ENGG3380_Project.srcs/sources_1/new/ALT_MUX_3_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ALT_MUX_3_1
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/ENGG3380_Project.srcs/sources_1/new/OR_Gate.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity OR_Gate
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/ENGG3380_Project.srcs/sources_1/new/Full_Adder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Full_Adder
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/ENGG3380_Project.srcs/sources_1/new/AND_Gate.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity AND_Gate
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/ENGG3380_Project.srcs/sources_1/new/ALU.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ALU
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/ENGG3380_Project.srcs/sources_1/new/MUX_3_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity MUX_3_1
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/ENGG3380_Project.srcs/sources_1/new/Sign_Extend.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Sign_Extend
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/ENGG3380_Project.srcs/sources_1/new/Registers.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Registers
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/ENGG3380_Project.srcs/sources_1/new/PC_Register.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity PC_Register
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/ENGG3380_Project.srcs/sources_1/new/MUX_2_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity MUX_2_1
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/ENGG3380_Project.srcs/sources_1/new/Memory.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Memory
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/ENGG3380_Project.srcs/sources_1/new/Control.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Control
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/ENGG3380_Project.srcs/sources_1/new/ALU_16bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ALU_16
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/ENGG3380_Project.srcs/sources_1/new/CPU.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity CPU
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/ENGG3380_Project.srcs/sim_1/new/CPU_Test.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity CPU_Test

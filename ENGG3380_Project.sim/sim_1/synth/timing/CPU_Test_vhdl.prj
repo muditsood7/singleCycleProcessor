@@ -1,0 +1,5 @@
+# compile vhdl design source files
+vhdl2008 xil_defaultlib  "../../../../ENGG3380_Project.srcs/sim_1/new/CPU_Test.vhd"
+
+# Do not sort compile order
+nosort

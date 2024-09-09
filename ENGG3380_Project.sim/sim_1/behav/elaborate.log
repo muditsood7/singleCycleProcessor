@@ -1,0 +1,32 @@
+Vivado Simulator 2016.3
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2016.3/bin/unwrapped/win64.o/xelab.exe -wto fadce9deb5624c77a2ec0aa839532f94 --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot CPU_Test_behav xil_defaultlib.CPU_Test -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling architecture behavioral of entity xil_defaultlib.PC_Register [pc_register_default]
+Compiling architecture behavioral of entity xil_defaultlib.Memory [\Memory(input="Instr.txt")(1,9,1...]
+Compiling architecture behavioral of entity xil_defaultlib.Control [control_default]
+Compiling architecture behavioral of entity xil_defaultlib.Registers [registers_default]
+Compiling architecture behavioral of entity xil_defaultlib.Sign_Extend [sign_extend_default]
+Compiling architecture behavioral of entity xil_defaultlib.MUX_2_1 [\MUX_2_1(width=4)\]
+Compiling architecture behavioral of entity xil_defaultlib.MUX_2_1 [mux_2_1_default]
+Compiling architecture behavioral of entity xil_defaultlib.Full_Adder [full_adder_default]
+Compiling architecture behavioral of entity xil_defaultlib.AND_Gate [and_gate_default]
+Compiling architecture behavioral of entity xil_defaultlib.OR_Gate [or_gate_default]
+Compiling architecture behavioral of entity xil_defaultlib.ALT_MUX_3_1 [alt_mux_3_1_default]
+Compiling architecture behavioral of entity xil_defaultlib.ALU [alu_default]
+Compiling architecture behavioral of entity xil_defaultlib.ALU_16 [alu_16_default]
+Compiling architecture behavioral of entity xil_defaultlib.Memory [\Memory(1,6,1,7)\]
+Compiling architecture behavioral of entity xil_defaultlib.MUX_3_1 [mux_3_1_default]
+Compiling architecture behavioral of entity xil_defaultlib.CPU [cpu_default]
+Compiling architecture behavioral of entity xil_defaultlib.cpu_test
+Built simulation snapshot CPU_Test_behav

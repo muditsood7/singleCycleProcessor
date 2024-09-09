@@ -1,0 +1,66 @@
+#-----------------------------------------------------------
+# Vivado v2016.3 (64-bit)
+# SW Build 1682563 on Mon Oct 10 19:07:27 MDT 2016
+# IP Build 1681267 on Mon Oct 10 21:28:31 MDT 2016
+# Start of session at: Mon Apr 08 19:24:00 2024
+# Process ID: 23980
+# Current directory: C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent27544 C:\Users\mudit\OneDrive\Documents\Second Year\Winter\ENGG 3380\ENGG3380_Project\ENGG3380_Project\ENGG3380_Project.xpr
+# Log file: C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/vivado.log
+# Journal file: C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/ENGG3380_Project.xpr}
+synth_design -rtl -name rtl_1
+launch_simulation
+source CPU_Test.tcl
+add_wave {{/CPU_Test/UUT/instruction}} 
+add_wave {{/CPU_Test/UUT/CPU_Registers}} 
+restart
+run 3600 ns
+add_wave {{/CPU_Test/UUT/CPU_MEM}} 
+restart
+run 3600 ns
+restart
+run 3600 ns
+restart
+run all
+restart
+close_sim
+launch_simulation
+source CPU_Test.tcl
+close_sim
+launch_simulation
+source CPU_Test.tcl
+add_wave {{/CPU_Test/UUT/instruction}} 
+add_wave {{/CPU_Test/UUT/CPU_MEM}} 
+add_wave {{/CPU_Test/UUT/CPU_Registers}} 
+add_wave {{/CPU_Test/UUT/Instruction_MEM/data_out}} 
+restart
+run all
+restart
+run 3600 ns
+restart
+run all
+save_wave_config {C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/CPU_Test_behav.wcfg}
+add_files -fileset sim_1 -norecurse {{C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/CPU_Test_behav.wcfg}}
+set_property xsim.view {{C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/CPU_Test_behav.wcfg}} [get_filesets sim_1]
+close_sim
+close_design
+launch_simulation
+open_wave_config C:/Users/mudit/OneDrive/Documents/Second
+open_wave_config Year/Winter/ENGG
+open_wave_config 3380/ENGG3380_Project/ENGG3380_Project/CPU_Test_behav.wcfg
+source CPU_Test.tcl
+add_wave {{/CPU_Test/UUT/instruction}} 
+add_wave {{/CPU_Test/UUT/CPU_Registers}} 
+add_wave {{/CPU_Test/UUT/CPU_MEM}} 
+restart
+run 3600 ns
+restart
+run all
+synth_design -rtl -name rtl_1
+save_wave_config {C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/CPU_Test_behav1.wcfg}
+add_files -fileset sim_1 -norecurse {{C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/CPU_Test_behav1.wcfg}}
+set_property xsim.view {{C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/CPU_Test_behav.wcfg} {C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/CPU_Test_behav1.wcfg}} [get_filesets sim_1]
+close_sim

@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Steven Shelestowsky/OneDrive/Documents/Vivado 2016.3 Projects/ENGG3380_Project/ENGG3380_Project.sim/sim_1/synth/func/CPU_Test_func_synth.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Steven Shelestowsky/OneDrive/Documents/Vivado 2016.3 Projects/ENGG3380_Project/ENGG3380_Project.srcs/sim_1/new/CPU_Test.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity CPU_Test
+ERROR: [VRFC 10-149] 'cpu' is not compiled in library xil_defaultlib [C:/Users/Steven Shelestowsky/OneDrive/Documents/Vivado 2016.3 Projects/ENGG3380_Project/ENGG3380_Project.srcs/sim_1/new/CPU_Test.vhd:14]
+ERROR: [VRFC 10-1504] unit behavioral ignored due to previous errors [C:/Users/Steven Shelestowsky/OneDrive/Documents/Vivado 2016.3 Projects/ENGG3380_Project/ENGG3380_Project.srcs/sim_1/new/CPU_Test.vhd:8]
+INFO: [VRFC 10-240] VHDL file C:/Users/Steven Shelestowsky/OneDrive/Documents/Vivado 2016.3 Projects/ENGG3380_Project/ENGG3380_Project.srcs/sim_1/new/CPU_Test.vhd ignored due to errors

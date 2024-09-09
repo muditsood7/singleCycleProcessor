@@ -1,0 +1,6 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "CPU_Test_func_synth.vhd"
+vhdl2008 xil_defaultlib  "../../../../ENGG3380_Project.srcs/sim_1/new/CPU_Test.vhd"
+
+# Do not sort compile order
+nosort

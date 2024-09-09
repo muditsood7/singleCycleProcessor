@@ -1,0 +1,8 @@
+Vivado Simulator 2016.3
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2016.3/bin/unwrapped/win64.o/xelab.exe -wto fadce9deb5624c77a2ec0aa839532f94 --debug typical --relax --mt 2 --maxdelay -L xil_defaultlib -L simprims_ver -L secureip --snapshot CPU_Test_time_synth -transport_int_delays -pulse_r 0 -pulse_int_r 0 -pulse_e 0 -pulse_int_e 0 xil_defaultlib.CPU_Test xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+ERROR: [XSIM 43-3221] (SdfError)Error while parsing sdf file "CPU_Test_time_synth.sdf" Line 11: syntax error, unexpected $end.
+ERROR: [XSIM 43-3915] Encountered a fatal error. Cannot continue. Exiting... 

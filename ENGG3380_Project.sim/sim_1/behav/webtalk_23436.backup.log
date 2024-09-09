@@ -1,0 +1,19 @@
+#-----------------------------------------------------------
+# Webtalk v2016.3 (64-bit)
+# SW Build 1682563 on Mon Oct 10 19:07:27 MDT 2016
+# IP Build 1681267 on Mon Oct 10 21:28:31 MDT 2016
+# Start of session at: Mon Apr 08 20:36:16 2024
+# Process ID: 23436
+# Current directory: C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/ENGG3380_Project.sim/sim_1/behav
+# Command line: wbtcv.exe -mode batch -source C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/ENGG3380_Project.sim/sim_1/behav/xsim.dir/CPU_Test_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/ENGG3380_Project.sim/sim_1/behav/webtalk.log
+# Journal file: C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/ENGG3380_Project.sim/sim_1/behav\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/mudit/OneDrive/Documents/Second -notrace
+invalid command name "Common"
+    while executing
+"Common 17-165"
+    invoked from within
+"ERROR: [Common 17-165] Too many positional options when parsing '3380/Project/Project/Project.hw/webtalk/labtool_webtalk.log', please type 'webtalk -h..."
+    (file "C:/Users/mudit/OneDrive/Documents/Second" line 1)
+INFO: [Common 17-206] Exiting Webtalk at Mon Apr 08 20:36:16 2024...

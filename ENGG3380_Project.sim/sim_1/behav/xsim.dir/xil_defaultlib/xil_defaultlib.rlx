@@ -1,0 +1,19 @@
+0.6
+2016.3
+Oct 10 2016
+19:46:48
+C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/ENGG3380_Project.srcs/sim_1/new/CPU_Test.vhd,1712618633,vhdl2008,,,,cpu_test,,,,,,,,
+C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/ENGG3380_Project.srcs/sources_1/new/ALT_MUX_3_1.vhd,1712618633,vhdl,,,,alt_mux_3_1,,,,,,,,
+C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/ENGG3380_Project.srcs/sources_1/new/ALU.vhd,1712618633,vhdl2008,,,,alu,,,,,,,,
+C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/ENGG3380_Project.srcs/sources_1/new/ALU_16bit.vhd,1712618633,vhdl2008,,,,alu_16,,,,,,,,
+C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/ENGG3380_Project.srcs/sources_1/new/AND_Gate.vhd,1712618633,vhdl2008,,,,and_gate,,,,,,,,
+C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/ENGG3380_Project.srcs/sources_1/new/CPU.vhd,1712618633,vhdl2008,C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/ENGG3380_Project.srcs/sim_1/new/CPU_Test.vhd,,,cpu,,,,,,,,
+C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/ENGG3380_Project.srcs/sources_1/new/Control.vhd,1712618633,vhdl2008,,,,control,,,,,,,,
+C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/ENGG3380_Project.srcs/sources_1/new/Full_Adder.vhd,1712618633,vhdl2008,,,,full_adder,,,,,,,,
+C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/ENGG3380_Project.srcs/sources_1/new/MUX_2_1.vhd,1712618633,vhdl2008,,,,mux_2_1,,,,,,,,
+C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/ENGG3380_Project.srcs/sources_1/new/MUX_3_1.vhd,1712618633,vhdl2008,,,,mux_3_1,,,,,,,,
+C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/ENGG3380_Project.srcs/sources_1/new/Memory.vhd,1712618633,vhdl2008,,,,memory,,,,,,,,
+C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/ENGG3380_Project.srcs/sources_1/new/OR_Gate.vhd,1712618633,vhdl2008,,,,or_gate,,,,,,,,
+C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/ENGG3380_Project.srcs/sources_1/new/PC_Register.vhd,1712618633,vhdl2008,,,,pc_register,,,,,,,,
+C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/ENGG3380_Project.srcs/sources_1/new/Registers.vhd,1712618633,vhdl2008,,,,registers,,,,,,,,
+C:/Users/mudit/OneDrive/Documents/Second Year/Winter/ENGG 3380/ENGG3380_Project/ENGG3380_Project/ENGG3380_Project.srcs/sources_1/new/Sign_Extend.vhd,1712618633,vhdl2008,,,,sign_extend,,,,,,,,

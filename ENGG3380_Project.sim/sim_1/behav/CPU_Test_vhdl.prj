@@ -1,0 +1,19 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../ENGG3380_Project.srcs/sources_1/new/ALT_MUX_3_1.vhd"
+vhdl2008 xil_defaultlib  "../../../ENGG3380_Project.srcs/sources_1/new/OR_Gate.vhd"
+vhdl2008 xil_defaultlib  "../../../ENGG3380_Project.srcs/sources_1/new/Full_Adder.vhd"
+vhdl2008 xil_defaultlib  "../../../ENGG3380_Project.srcs/sources_1/new/AND_Gate.vhd"
+vhdl2008 xil_defaultlib  "../../../ENGG3380_Project.srcs/sources_1/new/ALU.vhd"
+vhdl2008 xil_defaultlib  "../../../ENGG3380_Project.srcs/sources_1/new/MUX_3_1.vhd"
+vhdl2008 xil_defaultlib  "../../../ENGG3380_Project.srcs/sources_1/new/Sign_Extend.vhd"
+vhdl2008 xil_defaultlib  "../../../ENGG3380_Project.srcs/sources_1/new/Registers.vhd"
+vhdl2008 xil_defaultlib  "../../../ENGG3380_Project.srcs/sources_1/new/PC_Register.vhd"
+vhdl2008 xil_defaultlib  "../../../ENGG3380_Project.srcs/sources_1/new/MUX_2_1.vhd"
+vhdl2008 xil_defaultlib  "../../../ENGG3380_Project.srcs/sources_1/new/Memory.vhd"
+vhdl2008 xil_defaultlib  "../../../ENGG3380_Project.srcs/sources_1/new/Control.vhd"
+vhdl2008 xil_defaultlib  "../../../ENGG3380_Project.srcs/sources_1/new/ALU_16bit.vhd"
+vhdl2008 xil_defaultlib  "../../../ENGG3380_Project.srcs/sources_1/new/CPU.vhd"
+vhdl2008 xil_defaultlib  "../../../ENGG3380_Project.srcs/sim_1/new/CPU_Test.vhd"
+
+# Do not sort compile order
+nosort
